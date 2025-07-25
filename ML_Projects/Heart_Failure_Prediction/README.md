@@ -1,12 +1,3 @@
-
-Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Heart failure is a common event caused by CVDs, and this dataset contains 12 features that can be used to predict mortality from heart failure.
-
-Most CVDs can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful use of alcohol. These can be addressed through population-wide strategies.
-
-People with CVD or who are at high CVD risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidemia, or already established disease) need early detection and management. Machine learning models can be of great help in this regard.
-
-​
-
 # Problem Statement
 
 Heart failure is a critical medical condition that affects millions of people worldwide. It is a major cause of death and disability, and it can have a significant impact on a person's quality of life. Early detection and prediction of heart failure can play a crucial role in providing timely medical intervention and improving patient outcomes.
